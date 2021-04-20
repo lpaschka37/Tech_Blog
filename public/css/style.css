@@ -1,0 +1,72 @@
+.navbar {
+  color: black !important;
+}
+
+.card {
+  padding: 2px;
+  margin: 5px;
+  color: white !important;
+  background-color: #dc3545;
+}
+
+body {
+  cursor: pointer;
+  color:black !important;
+  text-decoration: none;
+  background-color: white;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.commentCard {
+  background-color: transparent;
+  color: black !important;
+}
+
+.cardLink:hover {
+  background-color: rgba(0, 0, 0, 0.733);
+}
+
+footer {
+  margin-top: 50px;
+}
+
+.form-control {
+  margin: 5px 0px 5px 0px;
+}
+
+.material-icons { 
+  font-size: 36px;
+  padding-left: 10px;
+  padding-right: 10px; 
+}
+
+.navbar-brand {
+  font-size: 24px;
+  float: right;
+}
+
+.navbar-inner {
+  text-align: center;
+}
+
+.card-title {
+  font-size: 22px;
+}
+
+.card-description {
+  font-size: 20px;
+}
+
+.card-author {
+  font-size: 16px;
+}
