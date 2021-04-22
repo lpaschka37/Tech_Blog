@@ -18,7 +18,8 @@ A tech Blog style page, with user login functionality, tracks users credentials 
 
 ## Install Instructions
 
-Navigate to 
+Navigate to https://sleepy-basin-05391.herokuapp.com/
+
   
 ## Usage Instructions
 
