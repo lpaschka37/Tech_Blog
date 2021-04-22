@@ -1,22 +1,22 @@
 [
 	{
-		"content" : "I'll be there around 2pm today",
-		"created_at" : "2021-03-26 16:59:56",
-		"updated_at" : "2021-03-26 16:59:56",
+		"content" : "II just learned about this in class today",
+		"created_at" : "2021-04-20 16:20:20",
+		"updated_at" : "2021-04-20 16:20:20",
 		"user_id" : 3,
 		"post_id" : 1
 	},
 	{
-		"content" : "My son Billy is available later this week.",
-		"created_at" : "2021-03-26 17:00:44",
-		"updated_at" : "2021-03-26 17:00:44",
+		"content" : "MMy favorite language is SQL!",
+		"created_at" : "2021-04-20 16:20:20",
+		"updated_at" : "2021-04-20 16:20:20",
 		"user_id" : 2,
 		"post_id" : 2
 	},
 	{
-		"content" : "Can we pitch in to help you out? ",
-		"created_at" : "2021-03-26 17:00:44",
-		"updated_at" : "2021-03-26 17:00:44",
+		"content" : "Does anyone else struggle with JS?",
+		"created_at" : "2021-04-20 16:20:20",
+		"updated_at" : "2021-04-20 16:20:20",
 		"user_id" : 1,
 		"post_id" : 3
 	}

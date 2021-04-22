@@ -1,14 +1,14 @@
 [
   {
-    "title": "Music Near Me",
-    "description": "A mobile app that will send you notifications whenever a concert is playing in your area."
+    "title": "Need a IT Specialist",
+    "description": "Looking for an individual tghat is good witgh solving desktop issues on PC and MAC."
   },
   {
-    "title": "The Ultimate Tech Quiz",
-    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!"
+    "title": "Why MVC is so important",
+    "description": "There is a difference between authentication and authorization. Autentication means confirming your own identity, whereas authorization means being allowed access to the system"
   },
   {
-    "title": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes."
+    "title": "Object-Relational Mapping",
+    "description": "I have really loved leraning about ORMs. Its really simplified the way I create queries in SQL!"
   }
 ]
